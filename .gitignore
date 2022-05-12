@@ -1,0 +1,5 @@
+*.sh
+cifar100/
+testfile/
+logs/
+*.pyc
